@@ -1,5 +1,5 @@
 Flask
 gunicorn
-torch
 transformers
 sentencepiece
+torch==2.7.0
